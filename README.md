@@ -4,7 +4,7 @@
 下载地址：[png下载](https://raw.githubusercontent.com/dianjie/chromeShortcuts/master/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E9%94%AE.png)
 ### 导航
 
-1. [使用开发者工具](#png下载)
+1. [png下载](#png下载)
 2. [使用开发者工具](#使用开发者工具)
 3. [开发者工具下的快捷键](#开发者工具下的快捷键)
 4. [Elements](#elements)
