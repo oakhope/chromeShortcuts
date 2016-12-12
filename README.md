@@ -59,6 +59,7 @@
 | 打开新窗口 | Ctrl + n | ⌘ + n |
 | 在隐身模式下打开新窗口 | Ctrl + Shift + n | ⌘ + Shift + n |
 | 打开新的标签页，并跳转到该标签页 | Ctrl + t | ⌘ + t |
+|焦点在url时候新标签页打开 | 未知 | Cmd + Return
 | 重新打开最后关闭的标签页，并跳转到该标签页 | Ctrl + Shift + t | ⌘ + Shift + t |
 | 跳转到下一个打开的标签页 | Ctrl + Tab 或 Ctrl + PgDn | ⌘ + Option + 向右箭头键 |
 | 跳转到上一个打开的标签页 | Ctrl + Shift + Tab 或 Ctrl + PgUp | ⌘ + Option + 向左箭头键 |
